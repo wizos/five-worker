@@ -32,7 +32,7 @@
 
 ---
 
-## 3. 配置文件模板 (config.json)
+## 3. 远程配置文件模板 (config.json)
 
 您可以将以下 JSON 内容保存为 `config.json` 并上传至 GitHub、Gist 或其他直链地址，然后在 Cloudflare 环境变量中设置 `REMOTE_CONFIG` 指向该文件地址。
 
